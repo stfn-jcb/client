@@ -964,7 +964,7 @@ Gesamtzeit übrig %5</translation>
     <message>
         <location filename="../src/gui/generalsettings.ui" line="61"/>
         <source>Ask confirmation before downloading folders larger than</source>
-        <translation>Bestätigung abfragen, bevor Ordner mit einer Größe über %1 heruntergeladen werden.</translation>
+        <translation>Bestätigung, bevor Ordner heruntergeladen werden, die größer sind als</translation>
     </message>
     <message>
         <location filename="../src/gui/generalsettings.ui" line="81"/>
